@@ -1,11 +1,14 @@
 # Coffee_Shop_Website
                                 Introduction 
 1.1 Problem Statement :- Coffee Culture aims to create a one-stop online hub for coffee enthusiasts, offering a curated collection of resources, information, and a community platform. By addressing the current lack of a centralized coffee-focused website, Coffee Culture seeks to empower individuals to explore and engage with the world of coffee, fostering a sense of connection and knowledge-sharing among coffee lovers worldwide. 
+
 1.2 Proposed System :- The proposed Coffee Culture website is a comprehensive online platform designed to cater to coffee enthusiasts. It will feature a user-friendly interface with easy navigation, offering a range of resources and features. The system will include a curated collection of coffee-related articles, brewing guides, and recipes to educate and inspire users. It will also provide a community forum where coffee lovers can connect, share their experiences, and seek advice. Overall, the proposed system aims to create an inclusive and interactive online space for coffee enthusiasts to explore, learn, and connect with like-minded individuals.
 
 
                                 Hardware and Software Requirements
-2.1 Hardware Requirements For Coffee Shop:- We Need Following Hardware: Laptop / PC , Minimum 2 GB RAM , Super VGA Screen With 1920x1080 Resolution , Minimum Core 2 Duo Processor 2.2 Software Requirements For Coffee Shop:- We Need Following Software Requirements:  Windows / Linux Operating System , Web Browser (Like Google Chrome / Mozilla Firefox)
+2.1 Hardware Requirements For Coffee Shop:- We Need Following Hardware: Laptop / PC , Minimum 2 GB RAM , Super VGA Screen With 1920x1080 Resolution , Minimum Core 2 Duo Processor 
+
+2.2 Software Requirements For Coffee Shop:- We Need Following Software Requirements:  Windows / Linux Operating System , Web Browser (Like Google Chrome / Mozilla Firefox)
 
 
                                 Description
